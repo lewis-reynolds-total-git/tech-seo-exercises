@@ -15,7 +15,15 @@
       "source": "/other/Chuck-Taylor-All-Star-Converse.html",
       "destination": "/other/chuck-taylor-all-star-converse.html", 
       "permanent": true
+    },
+
+{ 
+      "source": "/other/Old_Skool-Vans.html",
+      "destination": "/other/old-skool-vans.html", 
+      "permanent": true
     }
 
   ]
 }
+
+
